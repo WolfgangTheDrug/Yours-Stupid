@@ -1,0 +1,2 @@
+class BarchartBuilder():
+    pass
