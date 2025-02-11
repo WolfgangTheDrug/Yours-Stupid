@@ -1,2 +1,7 @@
+from charts.axis.axis import Axis
+
+
 class Barchart():
-    pass
+    _input_axis: Axis
+    _output_axis: Axis
+    
